@@ -1,0 +1,93 @@
+# Python 3 implementation of SJF
+import heapq as hq
+# number of process
+SIZE=4
+
+# This function schedules the
+# process according to the SJF
+# scheduling algorithm.
+def sjfNonpremetive(arr):
+	# Used to sort the processes
+	# according to arrival time
+	index = 0
+	for i in range(SIZE - 1):
+		index = i
+		for j in range(i + 1, SIZE) :
+			if (arr[j][1] < arr[index][1]) :
+				index = j
+			
+		
+		arr[i], arr[index]=arr[index],arr[i]
+	
+
+	# ctime stores the current run time
+	ctime = arr[0][1]
+
+	# priority queue, wait, is used
+	# to store all the processes that
+	# arrive <= ctime (current run time)
+	# this is a minimum priority queue
+	# that arranges values according to
+	# the burst time of the processes.
+	wait=[]
+
+	temp = arr[0][1]
+
+	# The first process is
+	# pushed in the wait queue.
+	hq.heappush(wait,arr[0].copy())
+	arr[0][1] = -1
+
+	print("Process id",end="\t")
+	print("Arrival time",end="\t")
+	print("Burst time",end="\t")
+
+	print()
+
+	while (wait) :
+
+		print(end="\t")
+		print(wait[0][2],end= "\t\t")
+		print(wait[0][1],end="\t\t")
+		print(wait[0][0],end="\t\t")
+		print()
+
+		# ctime is increased with
+		# the burst time of the
+		# currently executed process.
+		ctime += wait[0][0]
+
+		# The executed process is
+		# removed from the wait queue.
+		hq.heappop(wait)
+
+		for i in range(SIZE):
+			if (arr[i][1] <= ctime
+				and arr[i][1] != -1) :
+				hq.heappush(wait,arr[i].copy())
+
+				# When the process once
+				# enters the wait queue
+				# its arrival time is
+				# assigned to -1 so that
+				# it doesn't enter again
+				# int the wait queue.
+				arr[i][1] = -1
+			
+		
+	
+
+
+# Driver Code
+if __name__ == '__main__':
+	# an array of process info structures.
+	arr=[None]*SIZE
+
+	arr[0] =[3, 4, "p1"]
+	arr[1] = [8, 0, "p2"]
+	arr[2] = [4, 5, "p3"]
+	arr[3] = [2, 9, "p4"]
+
+	print("Process scheduling according to SJF is: \n")
+
+	sjfNonpremetive(arr)
