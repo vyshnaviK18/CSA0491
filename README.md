@@ -10,4 +10,9 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/113926615/211268380-ba7017f4-621d-4222-abaa-bf2cd1e2ce0d.png)
 
+5) Priority Queue
+
+![Screenshot from 2023-01-09 21-30-57](https://user-images.githubusercontent.com/113926615/211352283-85e1cd5f-4dff-4d1f-bb59-2bdbb9c56ba9.png)
+
+
 
