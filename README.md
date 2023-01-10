@@ -38,6 +38,10 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot from 2023-01-10 11-33-50](https://user-images.githubusercontent.com/113926615/211474088-0eeba195-2d9d-4f2e-8ec3-fc5cc5f1faa0.png)
 
+14)organize the file using single level directory
+
+![Screenshot from 2023-01-10 21-04-31](https://user-images.githubusercontent.com/113926615/211595034-94695aaf-56f1-4552-b7db-edee9882f68b.png)
+
 
 
 
