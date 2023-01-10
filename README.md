@@ -34,5 +34,10 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot from 2023-01-10 11-04-24](https://user-images.githubusercontent.com/113926615/211469922-c056ea2a-1d7a-4693-9c87-0c9355861a99.png)
 
+12) Dining Philosopher
+
+![Screenshot from 2023-01-10 11-33-50](https://user-images.githubusercontent.com/113926615/211474088-0eeba195-2d9d-4f2e-8ec3-fc5cc5f1faa0.png)
+
+
 
 
