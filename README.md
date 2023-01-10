@@ -30,5 +30,9 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot from 2023-01-09 21-49-24](https://user-images.githubusercontent.com/113926615/211356013-930756da-1494-400a-8671-228b62c633ed.png)
 
+11) Multithreading 
+
+![Screenshot from 2023-01-10 11-04-24](https://user-images.githubusercontent.com/113926615/211469922-c056ea2a-1d7a-4693-9c87-0c9355861a99.png)
+
 
 
