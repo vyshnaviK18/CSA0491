@@ -41,4 +41,3 @@ if __name__ == '__main__':
 
 	firstFit(blockSize, m, processSize, n)
 	
-# This code is contributed by PranchalK
