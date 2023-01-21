@@ -110,6 +110,35 @@ Operating Systems with Bootstrap Programming
 
 30)thread operations
 
+31)to simulate the First in First Out paging technique of memory management
+
+![Screenshot (234)](https://user-images.githubusercontent.com/113926615/213875155-5519c67b-7740-4ab2-a9ad-036afa93c0aa.png)
+
+32)simulate the Least Recently Used paging technique of memory management
+
+![image_2023-01-21_212553130](https://user-images.githubusercontent.com/113926615/213875231-908f63a8-78f3-43e0-a1a2-aceb8b1ec18b.png)
+
+33)simulate the optimal paging technique of memory management
+
+![Screenshot (236)](https://user-images.githubusercontent.com/113926615/213875967-40eec123-dc80-4dc1-9f2e-b36f3ca9d526.png)
+
+35)indexed file allocation strategy
+
+![Screenshot (237)](https://user-images.githubusercontent.com/113926615/213875983-c00bbb3e-9a14-434a-be1a-ed0fa632b3d7.png)
+
+36)linked file allocation strategy
+
+![Screenshot (238)](https://user-images.githubusercontent.com/113926615/213876073-8d3f911e-1b62-46e5-b8e6-647f206da06a.png)
+
+37)First Come First Served disk scheduling algorithm
+
+![image_2023-01-21_214739123](https://user-images.githubusercontent.com/113926615/213876149-b49485b5-97a5-45bb-8347-b2a23e25d6c3.png)
+
+38)SCAN disk scheduling algorithm
+![image_2023-01-21_214902809](https://user-images.githubusercontent.com/113926615/213876210-99932051-1def-465a-95d8-e956952f963b.png)
+
+39)C-SCAN disk scheduling
+
 
 
 
