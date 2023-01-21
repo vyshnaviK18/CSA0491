@@ -30,6 +30,14 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot from 2023-01-09 21-49-24](https://user-images.githubusercontent.com/113926615/211356013-930756da-1494-400a-8671-228b62c633ed.png)
 
+9)inter-process communication using shared memory 
+![screenshot9](https://user-images.githubusercontent.com/113926615/213869509-3dec1a65-67c7-47b7-b33d-0e53b0f13354.jpg)
+
+10)inter-process communication using message queue 
+
+![screenshot10](https://user-images.githubusercontent.com/113926615/213869616-d4d26e09-843b-4116-a582-402d8176c5d4.jpg)
+
+
 11) Multithreading 
 
 ![Screenshot from 2023-01-10 11-04-24](https://user-images.githubusercontent.com/113926615/211469922-c056ea2a-1d7a-4693-9c87-0c9355861a99.png)
@@ -38,9 +46,19 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot from 2023-01-10 11-33-50](https://user-images.githubusercontent.com/113926615/211474088-0eeba195-2d9d-4f2e-8ec3-fc5cc5f1faa0.png)
 
+13)inter-process communication using message queue with a C program.  
+
+![image_2023-01-21_191450906](https://user-images.githubusercontent.com/113926615/213869675-4b4ea83a-315e-4418-a9d0-fc50622ae255.png)
+
+
 14)organize the file using single level directory
 
 ![Screenshot from 2023-01-10 21-04-31](https://user-images.githubusercontent.com/113926615/211595034-94695aaf-56f1-4552-b7db-edee9882f68b.png)
+
+15)two level directory structure
+![Screenshot (227)](https://user-images.githubusercontent.com/113926615/213870075-cbb0e6e0-a093-4a5e-b0c8-e22f0b980f57.png)
+
+16)implementing random access file 
 
 17)Illustrate the deadlock avoidance concept by simulating Banker’s algorithm 
 
