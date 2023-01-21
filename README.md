@@ -83,3 +83,33 @@ Operating Systems with Bootstrap Programming
 23)to implement first fit algorithm of memory management.
 
 ![Screenshot from 2023-01-11 22-02-16](https://user-images.githubusercontent.com/113926615/211867790-77eb6a43-139f-44a4-9cb9-dc848d8a3707.png)
+
+24) UNIX system calls for file management
+
+![Screenshot (228)](https://user-images.githubusercontent.com/113926615/213872842-aeeb4be4-d4d1-4c0f-8ea0-1f5085aa90e7.png)
+
+25) IO system calls of UNIX
+
+![Screenshot (229)](https://user-images.githubusercontent.com/113926615/213872896-cf1fef8d-be44-47a1-985a-181bbc526542.png)
+
+26) file management 
+ 
+ ![Screenshot (230)](https://user-images.githubusercontent.com/113926615/213872972-73115546-919f-4c30-83fe-5b0484c1cdc8.png)
+ 
+ 27)simulating the function of ls UNIX Command
+
+![image_2023-01-21_203638133](https://user-images.githubusercontent.com/113926615/213873078-26346a14-540c-4b1d-a573-4bb1da152ec3.png)
+
+28)GREP UNIX command
+
+![image_2023-01-21_204101747](https://user-images.githubusercontent.com/113926615/213873252-ea673210-1abd-4239-9de0-84007110fd69.png)
+
+29)Classical Process Synchronization Problem
+
+![image_2023-01-21_204222780](https://user-images.githubusercontent.com/113926615/213873307-28d9e2a3-8d7b-4d2b-84c7-69cdcd300c01.png)
+
+30)thread operations
+
+
+
+
