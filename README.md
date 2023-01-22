@@ -31,6 +31,7 @@ Operating Systems with Bootstrap Programming
 ![Screenshot from 2023-01-09 21-49-24](https://user-images.githubusercontent.com/113926615/211356013-930756da-1494-400a-8671-228b62c633ed.png)
 
 9)inter-process communication using shared memory 
+
 ![screenshot9](https://user-images.githubusercontent.com/113926615/213869509-3dec1a65-67c7-47b7-b33d-0e53b0f13354.jpg)
 
 10)inter-process communication using message queue 
@@ -56,9 +57,13 @@ Operating Systems with Bootstrap Programming
 ![Screenshot from 2023-01-10 21-04-31](https://user-images.githubusercontent.com/113926615/211595034-94695aaf-56f1-4552-b7db-edee9882f68b.png)
 
 15)two level directory structure
+
 ![Screenshot (227)](https://user-images.githubusercontent.com/113926615/213870075-cbb0e6e0-a093-4a5e-b0c8-e22f0b980f57.png)
 
 16)implementing random access file 
+
+![Screenshot (241)](https://user-images.githubusercontent.com/113926615/213902564-baaa0221-6b1a-4c77-95c4-fd6f4b7e381f.png)
+
 
 17)Illustrate the deadlock avoidance concept by simulating Banker’s algorithm 
 
@@ -68,9 +73,11 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot from 2023-01-11 21-46-47](https://user-images.githubusercontent.com/113926615/211867323-4902ce70-334f-4570-a4b5-811a781b3f95.png)
 
-19)8 Construct a C program to simulate producer-consumer problem using semaphores.
+19)process synchronization using mutex locks
 
 ![Screenshot from 2023-01-11 21-48-59](https://user-images.githubusercontent.com/113926615/211867433-16293656-1f24-4404-bd57-f58e1b3fa308.png)
+
+20)
 
 21)to implement worst fit algorithm of memory management.
 
@@ -122,6 +129,11 @@ Operating Systems with Bootstrap Programming
 
 ![Screenshot (236)](https://user-images.githubusercontent.com/113926615/213875967-40eec123-dc80-4dc1-9f2e-b36f3ca9d526.png)
 
+34)simulate the file allocation strategy
+
+![Screenshot (242)](https://user-images.githubusercontent.com/113926615/213902975-7909e578-6b05-490b-ae11-3df8a5825bee.png)
+
+
 35)indexed file allocation strategy
 
 ![Screenshot (237)](https://user-images.githubusercontent.com/113926615/213875983-c00bbb3e-9a14-434a-be1a-ed0fa632b3d7.png)
@@ -140,5 +152,8 @@ Operating Systems with Bootstrap Programming
 39)C-SCAN disk scheduling
 
 
+40)File Access Permission 
+
+![Screenshot (243)](https://user-images.githubusercontent.com/113926615/213903377-32d1b0e0-5726-4525-9413-7f8b41400ade.png)
 
 
